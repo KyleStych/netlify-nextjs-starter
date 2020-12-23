@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-starter-project",
+  "version": "1.0.0",
+  "description": "Netlify Next.js example project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "author": "Kyle Stych",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
